@@ -1,0 +1,3 @@
+les résultats fournis par ce programme: 
+** construction objet C : 3 3
+** construction objet C : 12 21
